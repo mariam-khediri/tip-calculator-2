@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="bill_amount">Bill Amount</string>
+    <string name="tip">Tip %</string>
+    <string name="tiptow">Tip</string>
+    <string name="no_of_people">No.of People</string>
+    <string name="calculate_tip">Calculate tip</string>
+    <string name="app_name">TipCalulator</string>
+    <string name="tip_amount">TipAmount</string>
+    <string name="total_amount">TotalAmount</string>
+    <string name="total_Per_person">TotalPerPerson</string>
+    <string name="total">Total</string>
+
+
+</resources>
